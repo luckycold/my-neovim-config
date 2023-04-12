@@ -49,6 +49,6 @@ return require('packer').startup(function(use)
 		  {'rafamadriz/friendly-snippets'}, -- Optional
 	  }
   }
-
+  use('CoderCookE/vim-chatgpt')
   --Insert Next Plugin Directly Above here
 end)

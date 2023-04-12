@@ -1,3 +1,2 @@
 require("lucky")
-
-
+require("secrets")

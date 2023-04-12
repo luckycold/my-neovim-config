@@ -180,6 +180,11 @@ _G.packer_plugins = {
     path = "/home/matrum/.local/share/nvim/site/pack/packer/start/vim-be-good",
     url = "https://github.com/ThePrimeagen/vim-be-good"
   },
+  ["vim-chatgpt"] = {
+    loaded = true,
+    path = "/home/matrum/.local/share/nvim/site/pack/packer/start/vim-chatgpt",
+    url = "https://github.com/CoderCookE/vim-chatgpt"
+  },
   ["vim-fugitive"] = {
     loaded = true,
     path = "/home/matrum/.local/share/nvim/site/pack/packer/start/vim-fugitive",
