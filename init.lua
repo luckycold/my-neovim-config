@@ -1,2 +1,1 @@
 require("lucky")
-require("secrets")
